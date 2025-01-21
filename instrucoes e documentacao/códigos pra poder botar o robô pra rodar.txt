@@ -1,0 +1,14 @@
+Certifique-se de ter o Pyton (pelo menos versão 3) e Java instalado na sua máquina
+
+Depois disso abre um terminal na pasta que tá o index
+
+Digita no terminal python -m http.server 8085
+
+Quando o terminal responder que o servidor foi aberto na porta 8085 
+
+é só dar um:
+
+http://localhost:8085/
+
+e pronto! 
+

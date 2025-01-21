@@ -1,0 +1,13 @@
+Desenvolvedores 
+
+Júlio Cézar Figueredo Barros 
+Eliel Alves da Silva Amorim 
+Georgene Estevam 
+João Vitor 
+
+O que cada membro contribuiu:
+
+Julio Cézar - Back-end, documentação e treino da IA.
+Georgene - Back-end e bugfixing, anotações no código. 
+Elliel - Front end, treino de IA e bugfixing. 
+João Victor - Front end, documentação, treino da IA, bugfixing. 
